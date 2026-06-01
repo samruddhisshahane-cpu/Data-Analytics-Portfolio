@@ -1,7 +1,7 @@
 # Stock Performance Analysis Dashboard
 
 ## Project Overview
-Developed an interactive Stock Performance Analysis Dashboard in Microsoft Excel to analyze stock price movements, trading volume, and performance trends.
+Developed an interactive Stock Performance Analysis Dashboard in Microsoft Excel using historical Apple stock data to analyze price trends, trading volume, and daily returns.
 
 ## Tools Used
 - Microsoft Excel
@@ -11,16 +11,20 @@ Developed an interactive Stock Performance Analysis Dashboard in Microsoft Excel
 - Calculated Columns
 
 ## Key Metrics
-- Average Opening Price
 - Average Closing Price
-- Average Trading Volume
-- Percentage Change
+- Total Trading Volume
+- Average Daily Return
 
 ## Analysis Performed
 - Stock Price Trend Analysis
-- Monthly Performance Tracking
-- Trading Volume Analysis
-- Year-wise Performance Comparison
+- Volume Analysis
+- Return Analysis
+- Up vs Down Day Comparison
+
+## Interactive Filters
+- Date
+- Month
+- Year
 
 ## Outcome
-The dashboard helps visualize stock performance trends and trading activity, enabling data-driven analysis of historical stock behavior.
+The dashboard provides insights into stock performance, trading activity, and return trends through interactive visualizations and KPI tracking.
