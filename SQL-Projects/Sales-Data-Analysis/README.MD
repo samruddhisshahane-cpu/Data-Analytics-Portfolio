@@ -14,6 +14,13 @@ Performed sales data analysis using SQL to extract business insights, identify t
 - Country-wise Sales Analysis
 - Monthly Sales Trend Analysis
 
+## Business Questions Answered
+- Which country has the most orders?
+- Which customers purchased more than once?
+- Which product line performs best in each country?
+- Are most orders High, Medium, or Low value?
+- What are the monthly sales trends?
+
 ## SQL Concepts Used
 - SELECT
 - WHERE
