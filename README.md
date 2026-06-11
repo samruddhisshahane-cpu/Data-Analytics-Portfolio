@@ -22,6 +22,7 @@ Welcome to my Data Analytics Portfolio showcasing projects built using Excel, SQ
 
 ### Power BI Projects
 - Sales Performance Dashboard
+- HR Analytics Dashboard
 
 ## Education
 - MBA in Business Analytics, DY Patil University, Pune (2025)
